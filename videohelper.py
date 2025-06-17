@@ -53,4 +53,4 @@ def get_videos_for_search_term(search_term, video_count=1, sorting_criteria="rel
 
         youtube_videos.append(new_video)
 
-        return youtube_videos
+    return youtube_videos
