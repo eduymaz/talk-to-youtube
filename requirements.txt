@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+openai
+langchain-google-genai
+scrapetube #for searching
+yt_dlp #for voice
+pydub
+faiss-cpu #vektörler arası benzerlik bulmada (bellek genişletme)
+streamlit
+python-dotenv
