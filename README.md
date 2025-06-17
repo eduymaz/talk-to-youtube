@@ -19,10 +19,12 @@ A Streamlit app for interactive conversations with YouTube videos, powered by AI
 git clone <repo-url>
 cd vidChat
 ```
+
 2. **Install required Python packages:**
    ```sh
 pip install -r requirements.txt
 ```
+
 3. **Add your API keys to a `.env` file:**
    ```
 openai_apikey=YOUR_OPENAI_API_KEY
