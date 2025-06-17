@@ -15,19 +15,24 @@ YouTube videoları ile etkileşimli sohbet edebileceğiniz, video transkriptleri
 ## 🛠️ Kurulum
 
 1. **Depoyu klonlayın:**
+
    ```sh
-git clone <repo-url>
-cd vidChat
-```
-2. **Gerekli Python paketlerini yükleyin:**
-   ```sh
-pip install -r requirements.txt
-```
-3. **API anahtarlarınızı `.env` dosyasına ekleyin:**
+   git clone <repo-url>
+   cd vidChat
    ```
-openai_apikey=YOUR_OPENAI_API_KEY
-google_apikey=YOUR_GOOGLE_API_KEY
-```
+
+2. **Gerekli Python paketlerini yükleyin:**
+
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+3. **API anahtarlarınızı `.env` dosyasına ekleyin:**
+
+   ```env
+   openai_apikey=YOUR_OPENAI_API_KEY
+   google_apikey=YOUR_GOOGLE_API_KEY
+   ```
 
 ## ▶️ Kullanım
 
