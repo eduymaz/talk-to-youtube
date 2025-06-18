@@ -18,7 +18,7 @@ A Streamlit app for interactive conversations with YouTube videos, powered by AI
 
    ```sh
    git clone <repo-url>
-   cd vidChat
+   cd talk-to-youtube
    ```
 
 2. **Install required Python packages:**
