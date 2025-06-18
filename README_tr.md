@@ -18,7 +18,7 @@ YouTube videoları ile etkileşimli sohbet edebileceğiniz, video transkriptleri
 
    ```sh
    git clone <repo-url>
-   cd vidChat
+   cd talk-to-youtube
    ```
 
 2. **Gerekli Python paketlerini yükleyin:**
